@@ -31,3 +31,11 @@ int main()
     d1.bark(); // Specific to Dog
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Animal is eating
+Dog is barking
+-----------------
+*/

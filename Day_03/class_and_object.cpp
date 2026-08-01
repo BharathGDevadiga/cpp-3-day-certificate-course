@@ -20,3 +20,11 @@ int main()
     s1.age=21;
     s1.display();
 }
+
+/*
+Expected Output:
+-----------------
+Name : Bharath
+Age : 21
+-----------------
+*/

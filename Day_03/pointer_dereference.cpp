@@ -10,3 +10,10 @@ int main()
 }
 
 
+
+/*
+Expected Output:
+-----------------
+100 0x(address) 0x(address) 100
+-----------------
+*/

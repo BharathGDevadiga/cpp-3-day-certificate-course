@@ -9,3 +9,10 @@ int main()
     cout<<a<<" "<<p<<" "<<&a<<" "<<*p<<endl;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+100 0x(address) 0x(address) 100
+-----------------
+*/

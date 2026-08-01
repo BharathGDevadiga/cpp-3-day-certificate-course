@@ -14,3 +14,10 @@ int main()
     student s1;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+My name is Bharath
+-----------------
+*/

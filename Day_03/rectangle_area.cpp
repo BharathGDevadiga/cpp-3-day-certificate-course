@@ -19,3 +19,10 @@ int main()
     r1.breadth = 5;
     cout << "Area of rectangle: " << r1.area() << endl;
 }
+
+/*
+Expected Output:
+-----------------
+Area of rectangle: 50
+-----------------
+*/

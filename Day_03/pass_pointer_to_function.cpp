@@ -11,3 +11,10 @@ int main()
     change (&x);
     cout<<x<<endl;
 }
+
+/*
+Expected Output:
+-----------------
+500
+-----------------
+*/

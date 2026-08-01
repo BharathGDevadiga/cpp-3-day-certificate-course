@@ -25,3 +25,15 @@ int main()
 
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Before swapping 
+a = 10
+b = 20
+After swapping
+a = 20
+b = 10
+-----------------
+*/

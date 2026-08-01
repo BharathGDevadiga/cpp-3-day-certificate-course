@@ -20,3 +20,11 @@ int main()
     cout<<"Addition of 3 numbers: "<<c.add(10,20,30)<<endl;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Addition of 2 numbers: 30
+Addition of 3 numbers: 60
+-----------------
+*/

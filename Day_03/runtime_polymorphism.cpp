@@ -25,3 +25,10 @@ int main()
     a1->sound();
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Dog barks
+-----------------
+*/

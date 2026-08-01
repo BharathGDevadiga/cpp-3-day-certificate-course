@@ -32,3 +32,10 @@ int main()
 }
 
 //encapsulation
+
+/*
+Expected Output:
+-----------------
+Bharath
+-----------------
+*/

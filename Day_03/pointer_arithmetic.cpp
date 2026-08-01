@@ -10,3 +10,10 @@ int main()
     return 0;
 }
     
+
+/*
+Expected Output:
+-----------------
+0x(address) (memory address of arr[1])
+-----------------
+*/

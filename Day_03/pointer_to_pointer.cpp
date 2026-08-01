@@ -10,3 +10,11 @@ int main()
     cout<<*p<<endl;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+10
+10
+-----------------
+*/

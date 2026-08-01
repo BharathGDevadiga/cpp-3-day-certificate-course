@@ -14,3 +14,16 @@ int main()
     cout<<sizeof(double*)<<endl;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+4
+1
+8
+
+8
+8
+8
+-----------------
+*/

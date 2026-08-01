@@ -31,3 +31,11 @@ int main()
     c.fuel();
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Car starts
+Vehicle fuel
+-----------------
+*/
