@@ -15,3 +15,10 @@ int main(){
 	cout << "Factorial: " << factorial(5) << endl;
 	return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Factorial: 120
+-----------------
+*/

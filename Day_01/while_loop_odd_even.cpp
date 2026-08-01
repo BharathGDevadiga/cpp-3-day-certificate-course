@@ -13,3 +13,13 @@ int main()
       cout<<i<<endl;
     }
 }  
+
+/*
+Expected Output:
+-----------------
+vjit
+2
+vjit
+4
+-----------------
+*/

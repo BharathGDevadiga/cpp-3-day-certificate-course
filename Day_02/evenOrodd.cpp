@@ -28,3 +28,11 @@ int main()
     }
     return 0;
 }   
+
+/*
+Expected Output:
+-----------------
+Enter a number: 4
+4 is even.
+-----------------
+*/

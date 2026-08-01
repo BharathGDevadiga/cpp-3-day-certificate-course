@@ -22,3 +22,11 @@ int main()
     cout << "Odd numbers: " << oddCount;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Even numbers: 3
+Odd numbers: 3
+-----------------
+*/

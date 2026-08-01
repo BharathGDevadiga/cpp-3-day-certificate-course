@@ -24,3 +24,12 @@ int main()
     cout << "Sum of array elements: " << sum;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Enter n: 5
+Enter array values: 10 20 30 40 50
+Sum of array elements: 150
+-----------------
+*/

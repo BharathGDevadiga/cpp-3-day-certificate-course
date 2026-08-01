@@ -18,3 +18,10 @@ int main()
     cout << "Number of words: " << wordCount;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Number of words: 4
+-----------------
+*/

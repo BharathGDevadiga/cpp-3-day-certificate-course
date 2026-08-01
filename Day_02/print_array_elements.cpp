@@ -14,3 +14,10 @@ int main()
     cout << endl;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+10 20 30 40 50 
+-----------------
+*/

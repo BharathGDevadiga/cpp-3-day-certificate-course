@@ -17,3 +17,11 @@ int main()
     cout << "Area of circle: " << ans;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Enter radius: 5
+Area of circle: 78.5
+-----------------
+*/

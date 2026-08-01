@@ -13,3 +13,10 @@ int main()
     cout << "Product = " << product << endl;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Product = 3628800
+-----------------
+*/

@@ -21,3 +21,15 @@ int main()
 
     return 0;
 }  
+
+/*
+Expected Output:
+-----------------
+Enter your name: Alice
+Hello, Alice!
+Enter your age: 20
+You are 20 years old.
+Enter your branch: CS
+You are in the CS branch.
+-----------------
+*/

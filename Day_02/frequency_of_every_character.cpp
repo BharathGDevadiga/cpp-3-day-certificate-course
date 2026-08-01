@@ -33,3 +33,19 @@ int main()
 
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Enter a string: hello world
+Character frequencies:
+space: 1
+d: 1
+e: 1
+h: 1
+l: 3
+o: 2
+r: 1
+w: 1
+-----------------
+*/

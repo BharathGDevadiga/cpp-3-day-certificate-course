@@ -33,3 +33,12 @@ int main()
 
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Choose (1=Circle, 2=Rectangle, 3=Triangle): 1
+Enter radius: 5
+Area = 78.5397
+-----------------
+*/

@@ -18,3 +18,10 @@ int main()
     cout << "Number of vowels: " << vowelCount;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Number of vowels: 2
+-----------------
+*/

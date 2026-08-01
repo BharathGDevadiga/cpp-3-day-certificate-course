@@ -26,3 +26,14 @@ int main()
 
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Enter your name: Bharath
+Enter the number of times to print: 3
+Bharath
+Bharath
+Bharath
+-----------------
+*/

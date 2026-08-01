@@ -16,3 +16,16 @@ int main()
    
    return 0;
 }  
+
+/*
+Expected Output:
+-----------------
+a > b: true
+a < b: false
+a <= b: false
+a >= b: true
+a == b: false
+a != b: true
+8
+-----------------
+*/

@@ -23,3 +23,12 @@ int main()
     cout << "Largest array element: " << largest;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Enter n: 5
+Enter array values: 10 45 23 78 12
+Largest array element: 78
+-----------------
+*/

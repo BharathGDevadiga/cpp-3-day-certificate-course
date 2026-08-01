@@ -16,3 +16,10 @@ int main(){
 	cout << base << "^" << exponent << " = " << power(base, exponent);
 	return 0;
 }
+
+/*
+Expected Output:
+-----------------
+2^5 = 32
+-----------------
+*/

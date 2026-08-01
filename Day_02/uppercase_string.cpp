@@ -19,3 +19,11 @@ int main()
     cout << "Uppercase text: " << str;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Enter lowercase text: hello
+Uppercase text: HELLO
+-----------------
+*/

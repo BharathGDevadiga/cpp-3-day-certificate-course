@@ -18,3 +18,10 @@ int main()
 	printMixed(5);
 	return 0;
 }
+
+/*
+Expected Output:
+-----------------
+5 4 3 2 1 1 2 3 4 5 
+-----------------
+*/

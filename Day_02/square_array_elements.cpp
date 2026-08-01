@@ -22,3 +22,12 @@ int main()
     }
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Enter n: 4
+Enter array values: 2 3 4 5
+Array elements: 4 9 16 25 
+-----------------
+*/

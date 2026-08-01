@@ -18,3 +18,11 @@ int main()
     cout << "Number of words: " << words;
     return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Enter a sentence: I love programming
+Number of words: 3
+-----------------
+*/

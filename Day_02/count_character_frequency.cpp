@@ -25,3 +25,12 @@ int main()
 	cout << "Frequency: " << frequency;
 	return 0;
 }
+
+/*
+Expected Output:
+-----------------
+Enter a string: hello
+Enter a character: l
+Frequency: 2
+-----------------
+*/

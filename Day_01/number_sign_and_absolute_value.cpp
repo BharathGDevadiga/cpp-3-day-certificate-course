@@ -25,3 +25,12 @@ int main()
 
    return 0;
 }  
+
+/*
+Expected Output:
+-----------------
+Enter a number: -5
+The number is negative.
+Absolute value: 5
+-----------------
+*/
