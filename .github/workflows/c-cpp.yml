@@ -1,0 +1,35 @@
+name: C++ Compile Check
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Compile all Day_01 programs
+      run: |
+        for file in $(find Day_01 -name "*.cpp"); do
+          echo "Compiling $file"
+          g++ "$file" -o "${file%.cpp}"
+        done
+
+    - name: Compile all Day_02 programs
+      run: |
+        for file in $(find Day_02 -name "*.cpp"); do
+          echo "Compiling $file"
+          g++ "$file" -o "${file%.cpp}"
+        done
+
+    - name: Compile all Day_03 programs
+      run: |
+        for file in $(find Day_03 -name "*.cpp"); do
+          echo "Compiling $file"
+          g++ "$file" -o "${file%.cpp}"
+        done
